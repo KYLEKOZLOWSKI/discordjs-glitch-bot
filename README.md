@@ -1,2 +1,2 @@
 # discordjs-glitch-bot
-A Basic Discord Bot Code For Hosting On Glitch.com
+A Very Basic starter code which can be easily modifed to create custom commands and also works with cloning to glitch.com!
